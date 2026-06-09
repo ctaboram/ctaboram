@@ -42,6 +42,7 @@ De los algoritmos de bajo nivel en C a la creación de interfaces modernas y rá
 - **Ferte Diving** – Desarrollo integral de tienda online en **Shopify** para el sector náutico/buceo. Gestión de inventarios y UX personalizada.
 
 ### 🧩 Core Programming (42 Projects)
+- **[minishell](https://github.com/ctaboram/minishell)** – Recreación de una shell simple de UNIX, implementando un intérprete de comandos que soporte funcionalidades básicas.
 - **[push_swap](https://github.com/ctaboram/push_swap)** – Optimización de algoritmos de ordenación con stacks.
 - **[minitalk](https://github.com/ctaboram/minitalk)** – Sistema de comunicación entre procesos mediante señales Unix.
 - **[libft](https://github.com/ctaboram/libft)** – Mi propia biblioteca estándar en C.
